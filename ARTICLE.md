@@ -9,5 +9,7 @@ especially concerning how much change it will bring and how it may replace exist
 I found specifically interesting, though, is that Microsoft, who "spent a record amount on AI in the
 last quarter", also lost with shares declining 12.1%.
 
+**Edit made by Mohamed Mudawi** I agree. The article shows how fears about AI are hurting software companies, and I find it interesting that Microsoft spends a lot on AI but still saw its shares drop by more than 10 percent!
+
 **Proof Reading**  
 Article checked for typos
