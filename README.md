@@ -5,4 +5,4 @@ A simple project to practice a few git/github workflows.  Update this file as in
 Hyun Baek Na
 
 # Link to merged PR:  
-https://github.com/cs-uh-2012-spring26/i1-git-practice-afamousturtle/pull/3
+https://github.com/cs-uh-2012-spring26/i1-git-practice-Mohamed-Mudawi/pull/3
